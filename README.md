@@ -1,6 +1,6 @@
 # Instructions
 
-1.Download two 'csv' files and coding file.
+1.Download two 'csv' files (black_plastic and clear_plastic) and coding file (forecasting.R).
 
 2.Update your working directory of datasets in R.
 
