@@ -1,8 +1,8 @@
 ## Time Series Forecasting
 
-Instructions:
-
 This is the project that I did in 'Supply Chain' course as part of my Master's program.
+
+Instructions:
 
 1.Download two 'csv' files (black_plastic and clear_plastic) and coding file (forecasting.R).
 
