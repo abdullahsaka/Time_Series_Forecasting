@@ -1,4 +1,6 @@
-# Instructions
+## Time Series Forecasting
+
+Instructions:
 
 This is the project that I did in 'Supply Chain' course as part of my Master's program.
 
